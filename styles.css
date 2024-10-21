@@ -48,7 +48,6 @@ body {
   transform: translate(-80%, -400px) scale(3.5) rotate(-20deg);
   animation: fly 1s steps(10) infinite;
   animation-delay: 0.3s;
-  filter: drop-shadow(0 0 3px red);
 }
 
 @keyframes fly {
